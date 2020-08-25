@@ -1,4 +1,4 @@
-# AStar
+<h1> AStar </h1>
 
 Utilizes an implementation of the AStar algorithm to solve the sliding puzzle problem.
 
