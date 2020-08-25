@@ -4,7 +4,7 @@ Utilizes an implementation of the AStar algorithm to solve the sliding puzzle pr
 
 ## Output of the runnable main method in astar.PuzzleSolver:
 
-Solvable
+Solvable\
 
 {0,1,2,}
 {3,4,5,}
