@@ -2,9 +2,9 @@
 
 Utilizes an implementation of the AStar algorithm to solve the sliding puzzle problem.
 
-----------------------------------------------------------
-+Output of the runnable main method in astar.PuzzleSolver+
-----------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
++ Output of the runnable main method in astar.PuzzleSolver+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Solvable
 
