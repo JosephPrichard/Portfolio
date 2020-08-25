@@ -3,7 +3,7 @@
 Utilizes an implementation of the AStar algorithm to solve the sliding puzzle problem.
 
 ## Output of the runnable main method in astar.PuzzleSolver:
-
+```
 Solvable
 
 {0,1,2,}
@@ -131,3 +131,4 @@ Left
 {0,5,6,}
 
 Solved in 24 steps.
+```
