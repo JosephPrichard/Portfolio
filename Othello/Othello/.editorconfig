@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS8632: The annotation for nullable reference types should only be used in code within a '#nullable' annotations context.
+dotnet_diagnostic.CS8632.severity = suggestion
+
+# IDE0063: Use simple 'using' statement
+csharp_prefer_simple_using_statement = true:none

@@ -1,0 +1,22 @@
+C:\Users\Joseph\Documents\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.exe
+C:\Users\Joseph\Documents\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.deps.json
+C:\Users\Joseph\Documents\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.runtimeconfig.json
+C:\Users\Joseph\Documents\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.runtimeconfig.dev.json
+C:\Users\Joseph\Documents\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.dll
+C:\Users\Joseph\Documents\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.pdb
+C:\Users\Joseph\Documents\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.csprojAssemblyReference.cache
+C:\Users\Joseph\Documents\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.AssemblyInfoInputs.cache
+C:\Users\Joseph\Documents\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.AssemblyInfo.cs
+C:\Users\Joseph\Documents\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.dll
+C:\Users\Joseph\Documents\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.pdb
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.exe
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.deps.json
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.runtimeconfig.json
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.runtimeconfig.dev.json
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.dll
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\bin\Debug\netcoreapp3.0\Othello.pdb
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.csprojAssemblyReference.cache
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.AssemblyInfoInputs.cache
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.AssemblyInfo.cs
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.dll
+C:\Users\Joseph\Documents\Visual Studio 2019\Othello\Othello\obj\Debug\netcoreapp3.0\Othello.pdb
