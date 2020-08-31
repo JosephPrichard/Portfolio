@@ -4,7 +4,8 @@ Includes algorithms and flow control to play an Othello game in console. Written
 
 ### Sample Game in Console
 
-```Welcome to Othello Console. Press a number each turn to make a turn.
+```
+Welcome to Othello Console. Press a number each turn to make a turn.
 
     1    2    3    4    5    6    7    8
   +---++---++---++---++---++---++---++---+
@@ -133,4 +134,4 @@ h |   ||   ||   ||   ||   ||   ||   ||   |
 3. f5
 4. d7
 5. f6
-Current turn: 5. Black's turn:```
+Current turn: 5. Black's turn:
