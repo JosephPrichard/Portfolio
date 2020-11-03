@@ -1,2 +1,2 @@
-# Portfolio
-An archive of some of the projects I have done for school and for practice. Authored by Joseph Prichard.
+# SummerProjects
+An archive of the projects I did to practice over the summer of 2020.
