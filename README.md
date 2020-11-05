@@ -1,2 +1,2 @@
 # SummerProjects
-An archive of the projects I did to practice over the summer of 2020.
+An archive of some of the projects I did over the summer of 2020.
